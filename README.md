@@ -1,3 +1,7 @@
+Uppfærsla 30.nov
+Sé að þetta er algjört spagettí. Greinilega gleymt gitignore og flokka hluti.
+
+
 # v10-vef1-mani22.
 v10vefforritunmanieidson.
 Vefsíða byggð með vite.
